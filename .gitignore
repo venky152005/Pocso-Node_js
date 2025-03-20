@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+dist/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+vercel/
+
+# Build and cache
+build/
+.cache/
+.vscode/
+.DS_Store
+coverage/
+
+# AWS & Other Sensitive Files
+.aws/
